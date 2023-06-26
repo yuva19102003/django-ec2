@@ -1,5 +1,9 @@
 # django-todo
 A simple todo app built with django
+Demo video of this project 
+```bash 
+https://youtu.be/nmYPre6l9-s
+```
 
 ![todo App](https://raw.githubusercontent.com/shreys7/django-todo/develop/staticfiles/todoApp.png)
 ### Setup
